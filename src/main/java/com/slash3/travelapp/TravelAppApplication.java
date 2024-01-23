@@ -1,4 +1,4 @@
-package com.slash3.travelapp;
+ package com.slash3.travelapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
