@@ -1,6 +1,5 @@
 package com.slash3.travelapp.models;
 
-import javax.validation.constraints.Size;
 
 public class Activity {
 
